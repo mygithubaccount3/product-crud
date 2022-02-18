@@ -1,0 +1,17 @@
+{
+    "name": "pc/14_product_crud",
+    "authors": [
+        {
+            "name": "mygithubaccount3",
+            "email": "43136479+mygithubaccount3@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}
